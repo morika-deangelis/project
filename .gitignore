@@ -1,3 +1,14 @@
 **/*.log
 .DS_Store
 .ipynb_checkpoints
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env/
+/files_to_copy
+.ipynb_checkpoints/
+environment.yaml
+.RData
+.Rhistory
+.Rapp.history
